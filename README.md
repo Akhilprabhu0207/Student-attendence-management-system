@@ -2,13 +2,18 @@ Face based attendance system using python and openCV
 
 forthebadge made-with-python
 Python 3.9
+
 What steps you have to follow??
 
- Download or clone my Repository to your device
- type pip install -r requirements.txt in command prompt(this will install required package for project)
- Create a TrainingImage folder in a project folder.
- open attendance.py and automaticAttendance.py, change all the path according to your system
- Run attandance.py file
+1 Download or clone my Repository to your device
+ 
+2 type pip install -r requirements.txt in command prompt(this will install required package for project)
+ 
+3 Create a TrainingImage folder in a project folder.
+ 
+4 open attendance.py and automaticAttendance.py, change all the path according to your system
+ 
+5 Run attandance.py file
 
 Project flow & explaination
 
